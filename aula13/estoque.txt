@@ -1,0 +1,10 @@
+Caderno Universitario;12;24.90
+Caneta Azul;3;2.50
+Lapis Preto;20;1.80
+Borracha Branca;4;3.20
+Apontador;8;4.50
+Marca Texto;2;7.90
+Cola Bastao;15;6.80
+Tesoura Escolar;1;12.50
+Regua 30cm;10;5.00
+Corretivo Liquido;3;8.90
